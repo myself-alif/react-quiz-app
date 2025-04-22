@@ -1,3 +1,12 @@
+<h1>
+  Installation
+</h1>
+<ul>
+  <li>npm install</li>
+  <li>npm run server</li>  // starts api endpoints
+  <li>npm start</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
