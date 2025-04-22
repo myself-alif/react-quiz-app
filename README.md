@@ -3,7 +3,7 @@
 </h1>
 <ul>
   <li>npm install</li>
-  <li>npm run server //starts api endpoints</li>
+  <li>npm run server // starts api endpoints</li>
   <li>npm start</li>
 </ul>
 
